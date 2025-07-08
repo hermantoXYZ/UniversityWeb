@@ -1,0 +1,6 @@
+Django>=5.1.6
+Pillow>=10.0.0  # For image handling
+python-decouple>=3.8  # For environment variables
+django-cors-headers>=4.3.0  # For CORS support
+djangorestframework>=3.14.0  # Django REST Framework
+djangorestframework-simplejwt>=5.3.0  # JWT authentication 
